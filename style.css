@@ -1,22 +1,10 @@
 /* Color Pallette */
 body {
-    background-color: #0D0D0D;
+    background-color: #ffffff;
 }
 
 .navbar {
     background-color: #202529
-}
-
-.bg-skill {
-    background-color: #646464;
-}
-
-.bg-proj {
-    background-color: rgba(6, 18, 87, 0.253);
-}
-
-.bg-redeye {
-    background-color: rgba(90, 0, 0, 0.137);
 }
 
 /* Home page vertical span */
@@ -42,8 +30,8 @@ body {
 
 .proj-contain-1 {
     min-width: 40vw;
-    height: 45vh;
-    object-fit: contain;
+    height: 100vh;
+    object-fit: cover;
 }
 
 .proj-cover-2 {
